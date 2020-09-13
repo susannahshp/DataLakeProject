@@ -1,17 +1,17 @@
 # Project: Data Lake
 
----
+
 
 ## Summary
 
----
+
 
 As a data engineer in a music streaming startup, Sparkify, I was tasked to build an ETL pipeline. I had to extract their data from S3, process the data and transform the data using Spark, and load the data back into S3.
 
 
 ## How to run the Python scripts
 
----
+
 
 There is only one python file in this project called etl.py. To run this file, open your console and type 'python etl.py' command. This command will execute the python file and will get the data from S3 and process the data and load it back to S3 bucket.
 
@@ -19,7 +19,7 @@ There is only one python file in this project called etl.py. To run this file, o
 
 ## Explanation of the files
 
----
+
 
 #### dl.cfg
 
